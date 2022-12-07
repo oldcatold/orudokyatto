@@ -28,10 +28,9 @@
 
 <p>
   <div align="center">
-<img src="https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif" align="left">
+<img src="https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif" align="left" height="250">
   </div>
 </div>
-<div>
 <div align="center">
   <h3>Technology I used</h3>
   <br>
@@ -50,15 +49,12 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 <br>
+ </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&rotate=&height=100&section=footer"/>
